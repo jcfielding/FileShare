@@ -1,0 +1,889 @@
+ 
+
+Labour Market Information (LMI) Request 
+
+
+Source(s): Lightcast (EMSI Analyst), Statistics Canada, Job Bank, WDB Local Job Hub 
+
+
+ 
+The Simcoe Muskoka Workforce Development Board would like to invite you to complete a brief 
+survey for the purposes of continuous improvement and to better understand how this information 
+is being used. The survey can be found here. 
+
+ 
+
+Educational Assistant Labour Market 
+Information 
+
+ 
+
+Sources: 
+
+ 
+
+Lightcast (formerly EMSI Analyst) is a subscription-based software tool that estimates labour 
+market information based on trend analysis and econometrics. Their data is primarily based upon 
+Statistics Canada datasets including the Labour Force Survey, the Survey of Employment, Payroll 
+and Hours and Canadian Occupation Projection System (COPS). 
+
+ 
+
+The geography used in this report is the District Municipality of Muskoka. This includes the Town of 
+Bracebridge. And Central Ontario (defining central as Haliburton, Kawartha Lakes, Peterborough, 
+Northumberland and Prince Edward and Hastings counties) 
+
+ 
+
+ 
+
+National Occupational Classification (NOC 2016) 
+
+Statistics Canada uses NOC codes as a framework to collect, analyze and disseminate labour 
+market information 
+
+ 
+
+The NOC codes identified for use in this report are: 
+
+NOC 4214 - Early childhood educators and assistants 
+
+NOC 4413 - Elementary and secondary school teacher assistants 
+
+ 
+
+ 
+
+Government of Canada Job Bank Occupational Outlooks 
+
+The Job Bank provides employment outlook for various occupations for the 2022-2024 period. 
+Outlooks are based on the 2016 version of the NOC. 
+
+
+ 
+
+ 
+
+Occupational Projections - Lightcast 
+
+The projected demand for NOC 4214 out to 2025 is very limited in Muskoka, Haliburton, Kawartha 
+Lakes, Peterborough, Northumberland, limited in Prince Edward and good in Hastings. 
+
+ 
+
+Projected Demand for NOC 4214 - Early childhood educators and assistants 
+
+County 
+
+2021 Jobs 
+
+2025 Jobs 
+
+2021 - 2025 
+Change 
+
+2021 - 2025 % 
+Change 
+
+2021 Median 
+Hourly 
+Wages 
+
+Muskoka 
+
+114 
+
+94 
+
+ (20) 
+
+ (18%) 
+
+$20.26 
+
+Haliburton 
+
+34 
+
+30 
+
+ (4) 
+
+ (13%) 
+
+$20.26 
+
+Kawartha Lakes 
+
+208 
+
+177 
+
+ (31) 
+
+ (15%) 
+
+$20.26 
+
+Peterborough 
+
+435 
+
+365 
+
+ (70) 
+
+ (16%) 
+
+$20.26 
+
+Northumberland 
+
+148 
+
+113 
+
+ (35) 
+
+ (23%) 
+
+$20.26 
+
+Hastings 
+
+428 
+
+440 
+
+12 
+
+3% 
+
+$19.52 
+
+Prince Edward 
+
+53 
+
+52 
+
+ (1) 
+
+ (1%) 
+
+$19.52 
+
+Source: Lightcast (EMSI Analyst) (2022.1) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+The projected demand for NOC 4413 out to 2025 is very limited in Muskoka, Haliburton, Kawartha 
+Lakes, Peterborough, Northumberland, and good in Hastings and Prince Edward. 
+
+ 
+
+Projected Demand for NOC 4413 - Elementary and secondary school teacher assistants 
+
+County 
+
+2021 Jobs 
+
+2025 Jobs 
+
+2021 - 2025 
+Change 
+
+2021 - 2025 % 
+Change 
+
+2021 Median 
+Hourly 
+Wages 
+
+Muskoka 
+
+77 
+
+59 
+
+ (18) 
+
+ (23%) 
+
+$24.31 
+
+Haliburton 
+
+22 
+
+17 
+
+ (5) 
+
+ (23%) 
+
+$24.31 
+
+Kawartha Lakes 
+
+110 
+
+86 
+
+ (24) 
+
+ (22%) 
+
+$24.31 
+
+Peterborough 
+
+249 
+
+196 
+
+ (53) 
+
+ (21%) 
+
+$24.31 
+
+Northumberland 
+
+111 
+
+85 
+
+ (26) 
+
+ (23%) 
+
+$24.31 
+
+Hastings 
+
+526 
+
+598 
+
+72 
+
+14% 
+
+$23.26 
+
+Prince Edward 
+
+43 
+
+51 
+
+8 
+
+18% 
+
+$23.26 
+
+
+
+Source: Lightcast (EMSI Analyst) (2022.1) 
+
+ 
+
+ 
+
+Industry 
+
+For the counties of Muskoka, Haliburton, Kawartha Lakes, Peterborough, Northumberland, Prince 
+Edward and Hastings, which industry job posts were most often in was analyzed. 
+
+ 
+
+For NOC 4214, most jobs are in the child day-care services sector. 
+
+
+ 
+
+NOC 4214 - Early childhood educators and assistants 
+
+Industry 
+
+2021 Percent 
+
+Child day-care services 
+
+71.3% 
+
+Elementary and secondary schools 
+
+12.1% 
+
+Individual and family services 
+
+6.4% 
+
+Civic and social organizations 
+
+1.8% 
+
+Local, municipal and regional public administration 
+
+1.0% 
+
+Other amusement and recreation industries 
+
+0.8% 
+
+Other 
+
+6.5% 
+
+
+
+ 
+
+For NOC 4413, almost every job is in the Elementary and secondary schools sector, 
+
+ 
+
+NOC 4413 - Elementary and secondary school teacher assistants 
+
+Industry 
+
+2021 Percent 
+
+Elementary and secondary schools 
+
+99.0% 
+
+Defence services 
+
+0.4% 
+
+Employment services 
+
+0.2% 
+
+Aboriginal public administration 
+
+0.2% 
+
+Individual and family services 
+
+0.1% 
+
+Community colleges and C.E.G.E.P.s 
+
+0.1% 
+
+Other 
+
+0.1% 
+
+
+
+ 
+
+ 
+
+ 
+
+Skills Sets 
+
+For the counties of Muskoka, Haliburton, Kawartha Lakes, Peterborough, Northumberland, Prince 
+Edward and Hastings, skills most often mentioned in job posts were analyzed. 
+
+ 
+
+For NOC 4214 - Early childhood educators and assistants, the most requested specialized skills 
+were cooking, meal planning and preparation, and housekeeping 
+
+ 
+
+Top Specialized Skills 
+
+Skill 
+
+Number of 
+Postings 
+
+% of Total 
+Postings 
+
+Cooking 
+
+74 
+
+19% 
+
+Meal Planning And Preparation 
+
+73 
+
+19% 
+
+Housekeeping 
+
+65 
+
+17% 
+
+Cardiopulmonary Resuscitation (CPR) 
+
+59 
+
+15% 
+
+Furniture Cleaning 
+
+34 
+
+9% 
+
+Social Development 
+
+31 
+
+8% 
+
+Working With Children 
+
+26 
+
+7% 
+
+Behavioural Problems 
+
+20 
+
+5% 
+
+Early Childhood Education 
+
+18 
+
+5% 
+
+Caregiving 
+
+14 
+
+4% 
+
+
+
+
+ 
+
+For NOC 4214 - Early childhood educators and assistants, the most requested common skills were 
+first aid, writing, and teaching. 
+
+ 
+
+Top Common Skills 
+
+Skill 
+
+Number of 
+Postings 
+
+% of Total 
+Postings 
+
+First Aid 
+
+66 
+
+17% 
+
+Report Writing 
+
+29 
+
+8% 
+
+Writing 
+
+27 
+
+7% 
+
+Teaching 
+
+25 
+
+7% 
+
+Punctuality 
+
+25 
+
+7% 
+
+Honesty 
+
+25 
+
+7% 
+
+Creativity 
+
+22 
+
+6% 
+
+Collaboration 
+
+22 
+
+6% 
+
+Planning 
+
+21 
+
+5% 
+
+Communications 
+
+21 
+
+5% 
+
+Source: Lightcast (EMSI Analyst) (2022.1) 
+
+ 
+
+
+
+ 
+
+ 
+
+For NOC 4413 - Elementary and secondary school teacher assistants, the most requested 
+specialized skills were Individualized Education Programs (IEP), classroom management and 
+special education. 
+
+ 
+
+Top Specialized Skills 
+
+Skill 
+
+Number of 
+Postings 
+
+% of Total 
+Postings 
+
+Individualized Education Programs (IEP) 
+
+2 
+
+25% 
+
+Classroom Management 
+
+2 
+
+25% 
+
+Special Education 
+
+2 
+
+25% 
+
+Differentiated Instruction 
+
+2 
+
+25% 
+
+Performance Appraisal 
+
+2 
+
+25% 
+
+Palletizing 
+
+2 
+
+25% 
+
+Site Security 
+
+2 
+
+25% 
+
+Assisted Feeding 
+
+1 
+
+13% 
+
+Student Services 
+
+1 
+
+13% 
+
+New Hire Orientations 
+
+1 
+
+13% 
+
+
+
+ 
+
+For NOC 4413 - Elementary and secondary school teacher assistants, the most requested common 
+skills were communications, patience and teaching. 
+
+ 
+
+Top Common Skills 
+
+Skill 
+
+Number of 
+Postings 
+
+% of Total 
+Postings 
+
+Communications 
+
+4 
+
+50% 
+
+
+
+
+Patience 
+
+3 
+
+38% 
+
+Teaching 
+
+3 
+
+38% 
+
+Writing 
+
+3 
+
+38% 
+
+Organizational Skills 
+
+2 
+
+25% 
+
+Planning 
+
+2 
+
+25% 
+
+Interpersonal Communications 
+
+2 
+
+25% 
+
+Loading And Unloading 
+
+2 
+
+25% 
+
+Report Writing 
+
+1 
+
+13% 
+
+Research 
+
+1 
+
+13% 
+
+Source: Lightcast (EMSI Analyst) (2022.1) 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+Job Bank Outlooks for Ontario 
+
+The employment outlook will be good for Early childhood educators and assistants (NOC 4214) in 
+Ontario for the 2022-2024 period. 
+
+ 
+
+The following factors contributed to this outlook: 
+
+ Employment growth will lead to several new positions. 
+ A moderate number of positions will become available due to retirements. 
+ There are a moderate number of unemployed workers with recent experience in this 
+occupation. 
+
+
+ 
+
+The employment outlook will be moderate for Elementary and secondary school teacher assistants 
+(NOC 4413) in Ontario for the 2022-2024 period. 
+
+ 
+
+The following factors contributed to this outlook: 
+
+ Employment growth will lead to a moderate number of new positions. 
+ Several positions will become available due to retirements. 
+
+
+ 
+
+ 
+
+ 
+
+Local Job Postings in Muskoka 
+
+From December 2021 to November 2022, there were a total of 97 unique job postings for NOC 
+4214 - Early childhood educators and assistants, and a total of 19 unique job postings for NOC 
+4413 - Elementary and secondary school teacher assistants in Muskoka. 
+
+
+ 
+
+0
+
+
+2
+
+
+4
+
+
+6
+
+
+8
+
+
+10
+
+
+12
+
+
+14
+
+
+16
+
+
+Dec-21
+
+
+Jan-22
+
+
+Feb-22
+
+
+Mar-22
+
+
+Apr-22
+
+
+May-22
+
+
+Jun-22
+
+
+Jul-22
+
+
+Aug-22
+
+
+Sep-22
+
+
+Oct-22
+
+
+Nov-22
+
+
+Number of Monthly Job Postings in Muskoka
+
+
+ NOC 4214 - Early childhood educators and assistants
+
+
+ NOC 4413 - Elementary and secondary school teacher assistants
+
+
+Source: WDB Local Job Hub 
+
+ 
+
+New Legislation – Ontario Minimum Wage 
+
+Minimum wage rates in Ontario increased on October 1, 2022. This increase is tied to the Ontario 
+Consumer Price Index for 2022. 
+
+The increase to the general minimum wage will be 50 cents, which will bring the new rate to $15.50 
+an hour. 
+
+The increase to the student minimum wage will be 50 cents, which will bring the new rate to $14.60 
+an hour. 
+
+ 
+
+Note: Student minimum wage - This rate applies to students under the age of 18 who work 28 
+hours a week or less when school is in session or work during a school break or summer holidays 
+
+ 
+
+ 
+
+The Ontario Living Wage Network 
+
+The Ontario Living Wage Network has posted their 2022 living wage rate. The rate for Eastern 
+Ontario, which includes Muskoka, is $19.05/hour. 
+
+
